@@ -2,5 +2,6 @@
 # returns the phrase
 
 def parrot
-  puts parrot
-send_file
+  puts "#{parrot}"
+  parrot
+end
